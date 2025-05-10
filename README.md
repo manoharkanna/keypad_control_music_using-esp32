@@ -39,7 +39,7 @@ Jumper wires
 Breadboard
 
 🔌 Wiring
-Component	Arduino Pin
+Component	ESP32 Pin
 Buzzer	D33
 Keypad Rows	D13, D12, D14
 Keypad Columns	D27, D26, D25
