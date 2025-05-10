@@ -1,4 +1,4 @@
-# keypad_control_music_using-esp32
+# keypad_control_music_using_ESP32
 This ESP32 project lets you play various melodies using a 3x3 keypad and a piezo buzzer. Each key from 1 to 9 triggers a unique melody, including popular tunes like Happy Birthday, Harry Potter Theme, Twinkle Twinkle Little Star, Jingle Bells, and more!
 
 📦 Features
